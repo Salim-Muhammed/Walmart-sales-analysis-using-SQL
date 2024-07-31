@@ -1,0 +1,1 @@
+In this Walmart sales analysis using SQL is keenly describes about some important business questions and solves using SQL queries.In this project includes basic, intermediate and advanced level of SQL query.
